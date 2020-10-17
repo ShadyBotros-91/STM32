@@ -1,3 +1,0 @@
-gpio.c:10:6:GPIO_init_LED	16	static
-gpio.c:57:6:GPIO_TurnON_LED	16	static
-gpio.c:76:6:GPIO_TurnOFF_LED	16	static
