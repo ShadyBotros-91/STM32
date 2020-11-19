@@ -1,0 +1,8 @@
+usart1.c:93:13:strTransmit	24	static
+usart1.c:124:13:strReceive	16	static
+usart1.c:186:25:strCmp	32	static
+usart1.c:227:6:USART1_GPIO_Config	4	static
+usart1.c:258:6:USART1_Init	4	static
+usart1.c:298:6:USART1_Enable	4	static
+usart1.c:322:6:USART1_Process	16	static
+usart1.c:548:6:USART1_IRQ_Callback	4	static

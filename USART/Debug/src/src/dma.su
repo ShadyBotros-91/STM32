@@ -1,0 +1,3 @@
+dma.c:11:6:DMA2_Stream0_Init	4	static
+dma.c:76:6:DMA2_Stream0_Set_Addresses	24	static
+dma.c:96:6:DMA2_Stream0_Enable	4	static
